@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "mateusnroll",
   "url": "https://github.com/mateusnroll/figma-iconset",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "figma-js": "^1.3.4"
+  }
 }
