@@ -1,0 +1,9 @@
+{
+  "name": "figma-iconset",
+  "version": "0.1.0",
+  "description": "Fimga iconset generator",
+  "main": "index.js",
+  "author": "mateusnroll",
+  "url": "https://github.com/mateusnroll/figma-iconset",
+  "license": "MIT"
+}
